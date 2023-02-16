@@ -1,2 +1,2 @@
 # Drum-Kit
-Have fun with play a drum kit 
+Have fun with playing a drum kit 
